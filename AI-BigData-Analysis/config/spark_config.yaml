@@ -1,2 +1,3 @@
-spark.master: local
-# Spark configuration placeholder
+spark:
+  master: local[*]
+  app_name: SparkProcessor

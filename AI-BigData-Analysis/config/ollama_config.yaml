@@ -1,2 +1,2 @@
-api_url: http://localhost:11434
-# Ollama config placeholder
+ollama:
+  endpoint: http://localhost:11434

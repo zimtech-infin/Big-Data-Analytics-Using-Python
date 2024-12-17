@@ -1,3 +1,5 @@
-id,region,sales
-1,North,100
-2,South,200
+region,date,sales
+North,2024-06-01,1000
+South,2024-06-01,1500
+East,2024-06-01,1300
+West,2024-06-01,1200

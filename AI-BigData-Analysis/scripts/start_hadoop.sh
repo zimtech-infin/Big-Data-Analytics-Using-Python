@@ -1,2 +1,3 @@
 #!/bin/bash
-echo 'Starting Hadoop services...'
+start-dfs.sh && start-yarn.sh
+echo 'Hadoop services started.'

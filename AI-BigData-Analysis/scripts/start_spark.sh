@@ -1,2 +1,3 @@
 #!/bin/bash
-echo 'Starting Spark services...'
+spark-submit --version
+echo 'Spark cluster ready.'

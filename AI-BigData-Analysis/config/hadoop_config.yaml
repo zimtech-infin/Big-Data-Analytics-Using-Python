@@ -1,2 +1,3 @@
-dfs.replication: 1
-# Hadoop configuration placeholder
+hdfs:
+  host: localhost
+  port: 9000
