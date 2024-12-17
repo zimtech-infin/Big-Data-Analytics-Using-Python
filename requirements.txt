@@ -1,0 +1,5 @@
+pandas
+pandasai
+llama-index
+pyspark
+matplotlib

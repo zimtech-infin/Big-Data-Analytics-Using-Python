@@ -1,0 +1,2 @@
+spark.master: local
+# Spark configuration placeholder
